@@ -34,7 +34,7 @@ flutter 기본 기능을 활용한 장바구니 메모 어플
 
 ## 최종 발표용 ppt
 
-[ppt 확인하기](https://github.com/HaJeong-K/Multi-Telecom/blob/main/%EB%A9%80%ED%8B%B0%ED%85%94%EB%A0%88%EC%BD%A4-ppt.pdf)
+[ppt 확인하기](https://github.com/HaJeong-K/Shopping_Cart/blob/main/%EC%BA%A1%EB%94%94%20%ED%94%BC%ED%94%BC%ED%8B%B0%20%EC%B5%9C%EC%A2%85.pptx)
 
 <br>
 
